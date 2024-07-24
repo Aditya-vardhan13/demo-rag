@@ -12,7 +12,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
-os.environ['OPENAI_API_KEY'] = "sk-proj-Ks3FUZJdbwZjQYoUq9TWT3BlbkFJ6a2PJlnZvqu3kJ8k2LYm"
+os.environ['OPENAI_API_KEY'] = "sk-proj-6X5PaV6KwEkilgaeZn9MT3BlbkFJ2baHh1m6sjf2OGIOPBi5"
 
 st.title("News and Document Research Tool 📈📄")
 
